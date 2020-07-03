@@ -1,6 +1,7 @@
 # NewsApp
 
 App shows breaking news top headlines from different news outlets
+
 App is using NewsAPI https://newsapi.org/
 SwiftUI + UIViewRepresentable using The Obserever Design Pattern
 
