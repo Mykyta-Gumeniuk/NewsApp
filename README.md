@@ -14,4 +14,4 @@ SwiftUI + UIViewRepresentable using The Obserever Design Pattern
 
   Screen 1 - The List of News |  Screen 2 - Searching News 
   :-------------------------:|:-------------------------:
-  ![](screenshots/macos1.png)  |  ![](screenshots/macos2.png)
+  ![](screenshots/mac1.png)  |  ![](screenshots/mac2.png)
